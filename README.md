@@ -17,7 +17,7 @@ double complex exponential = exp(I*2*M_PI*(f0 + k/2*t)*t);
 Tizen v5.0
 Default language standard: -std=c++14
 
-Using Complex numbers
+Using Complex numbers, `#include <ctgmath>`
 
 Toolchain: GCC-6.2
 ```c++
